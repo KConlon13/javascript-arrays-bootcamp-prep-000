@@ -20,7 +20,7 @@ function destructivelyAddElementToEndOfArray(chocolateBars, milkyway) {
 }
 
 function accessElementInArray(chocolateBars) {
-  return chocolateBars[1]
+  return chocolateBars[2]
 }
 
 function destructivelyRemoveElementFromBeginningOfArray(chocolateBars) {
